@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-times);
+      }
+
+      .cls-2 {
+        fill: #cf3d3d;
+      }
+    </style>
+    <clipPath id="clip-times">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="times" class="cls-1">
+    <path id="times-2" data-name="times" class="cls-2" d="M83.435,140.5l34.4-34.4a10.813,10.813,0,0,0,0-15.29l-7.645-7.645a10.813,10.813,0,0,0-15.29,0l-34.4,34.4-34.4-34.4a10.813,10.813,0,0,0-15.29,0L3.166,90.811a10.813,10.813,0,0,0,0,15.29l34.4,34.4-34.4,34.4a10.813,10.813,0,0,0,0,15.29l7.645,7.645a10.813,10.813,0,0,0,15.29,0l34.4-34.4,34.4,34.4a10.813,10.813,0,0,0,15.29,0l7.645-7.645a10.813,10.813,0,0,0,0-15.29Z" transform="translate(40 -40)"/>
+  </g>
+</svg>

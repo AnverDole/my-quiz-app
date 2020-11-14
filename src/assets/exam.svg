@@ -1,0 +1,270 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="2060 5428 1920 1079">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-exam);
+      }
+
+      .cls-2 {
+        fill: #b54cad;
+      }
+
+      .cls-15, .cls-3, .cls-5, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-9 {
+        font-size: 20px;
+      }
+
+      .cls-11, .cls-12, .cls-15, .cls-3, .cls-6, .cls-9 {
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #dcdcdc;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-6, .cls-9 {
+        fill: #3f3d56;
+      }
+
+      .cls-6 {
+        font-size: 30px;
+      }
+
+      .cls-10, .cls-11, .cls-15, .cls-7 {
+        font-size: 25px;
+      }
+
+      .cls-10, .cls-7 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-8 {
+        fill: #efa3e9;
+      }
+
+      .cls-12 {
+        font-size: 45px;
+      }
+
+      .cls-14, .cls-16, .cls-17 {
+        fill: #a7289e;
+      }
+
+      .cls-14 {
+        stroke: #95989a;
+      }
+
+      .cls-16 {
+        font-size: 48px;
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .cls-18 {
+        fill: #f9f9f9;
+      }
+
+      .cls-19 {
+        filter: url(#Rectangle_107);
+      }
+
+      .cls-20 {
+        filter: url(#Rectangle_105);
+      }
+
+      .cls-21 {
+        filter: url(#Rectangle_106);
+      }
+
+      .cls-22 {
+        filter: url(#Rectangle_104);
+      }
+
+      .cls-23 {
+        filter: url(#footer-base);
+      }
+    </style>
+    <filter id="footer-base" x="1985" y="6362" width="2070" height="220" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-color="#a7289e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_104" x="2030" y="5560" width="601" height="712" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-2"/>
+      <feFlood flood-color="#b54cad" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_106" x="2530" y="5560" width="1477" height="792" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-3"/>
+      <feFlood flood-color="#b54cad" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_105" x="2031" y="6170" width="601" height="299" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-4"/>
+      <feFlood flood-color="#b54cad" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_107" x="1985" y="5353" width="2070" height="309" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-5"/>
+      <feFlood flood-color="#a7289e" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-exam">
+      <rect x="2060" y="5428" width="1920" height="1079"/>
+    </clipPath>
+  </defs>
+  <g id="exam" class="cls-1">
+    <rect class="cls-18" x="2060" y="5428" width="1920" height="1079"/>
+    <g id="Group_16" data-name="Group 16" transform="translate(2060 5428)">
+      <g class="cls-23" transform="matrix(1, 0, 0, 1, -2060, -5428)">
+        <rect id="footer-base-2" data-name="footer-base" class="cls-2" width="1920" height="70" transform="translate(2060 6438)"/>
+      </g>
+      <text id="copyright_text" data-name="copyright text" class="cls-3" transform="translate(175 1052)"><tspan x="0" y="0">Copyright 2020 @ M.A.Dole</tspan></text>
+      <line id="Line_2" data-name="Line 2" class="cls-4" x2="1920" transform="translate(0 1010.5)"/>
+    </g>
+    <g id="quetions" transform="translate(2060 5428)">
+      <g class="cls-22" transform="matrix(1, 0, 0, 1, -2060, -5428)">
+        <rect id="Rectangle_104-2" data-name="Rectangle 104" class="cls-5" width="451" height="562" rx="20" transform="translate(2105 5635)"/>
+      </g>
+      <text id="login-link" class="cls-6" transform="translate(91 271)"><tspan x="0" y="0">Quetions</tspan></text>
+      <g id="Group_44" data-name="Group 44">
+        <rect id="Rectangle_79" data-name="Rectangle 79" class="cls-2" width="80" height="80" rx="40" transform="translate(91 308)"/>
+        <text id="_01" data-name="01" class="cls-7" transform="translate(118 358)"><tspan x="0" y="0">01</tspan></text>
+      </g>
+      <g id="Group_45" data-name="Group 45">
+        <rect id="Rectangle_80" data-name="Rectangle 80" class="cls-2" width="80" height="80" rx="40" transform="translate(187 308)"/>
+        <text id="_02" data-name="02" class="cls-7" transform="translate(214 358)"><tspan x="0" y="0">02</tspan></text>
+      </g>
+      <g id="Group_46" data-name="Group 46">
+        <rect id="Rectangle_81" data-name="Rectangle 81" class="cls-8" width="80" height="80" rx="40" transform="translate(283 308)"/>
+        <text id="_03" data-name="03" class="cls-7" transform="translate(310 358)"><tspan x="0" y="0">03</tspan></text>
+      </g>
+      <g id="Group_47" data-name="Group 47">
+        <rect id="Rectangle_82" data-name="Rectangle 82" class="cls-8" width="80" height="80" rx="40" transform="translate(379 308)"/>
+        <text id="_04" data-name="04" class="cls-7" transform="translate(406 358)"><tspan x="0" y="0">04</tspan></text>
+      </g>
+      <g id="Group_48" data-name="Group 48">
+        <rect id="Rectangle_83" data-name="Rectangle 83" class="cls-8" width="80" height="80" rx="40" transform="translate(91 412)"/>
+        <text id="_01-2" data-name="01" class="cls-7" transform="translate(118 462)"><tspan x="0" y="0">01</tspan></text>
+      </g>
+      <g id="Group_49" data-name="Group 49">
+        <rect id="Rectangle_84" data-name="Rectangle 84" class="cls-8" width="80" height="80" rx="40" transform="translate(187 412)"/>
+        <text id="_02-2" data-name="02" class="cls-7" transform="translate(214 462)"><tspan x="0" y="0">02</tspan></text>
+      </g>
+      <g id="Group_50" data-name="Group 50">
+        <rect id="Rectangle_85" data-name="Rectangle 85" class="cls-8" width="80" height="80" rx="40" transform="translate(283 412)"/>
+        <text id="_03-2" data-name="03" class="cls-7" transform="translate(310 462)"><tspan x="0" y="0">03</tspan></text>
+      </g>
+      <g id="Group_51" data-name="Group 51">
+        <rect id="Rectangle_86" data-name="Rectangle 86" class="cls-8" width="80" height="80" rx="40" transform="translate(379 412)"/>
+        <text id="_04-2" data-name="04" class="cls-7" transform="translate(406 462)"><tspan x="0" y="0">04</tspan></text>
+      </g>
+      <g id="Group_59" data-name="Group 59">
+        <rect id="Rectangle_87" data-name="Rectangle 87" class="cls-8" width="80" height="80" rx="40" transform="translate(91 516)"/>
+        <text id="_01-3" data-name="01" class="cls-7" transform="translate(118 566)"><tspan x="0" y="0">01</tspan></text>
+      </g>
+      <g id="Group_54" data-name="Group 54">
+        <rect id="Rectangle_88" data-name="Rectangle 88" class="cls-8" width="80" height="80" rx="40" transform="translate(187 516)"/>
+        <text id="_02-3" data-name="02" class="cls-7" transform="translate(214 566)"><tspan x="0" y="0">02</tspan></text>
+      </g>
+      <g id="Group_53" data-name="Group 53">
+        <rect id="Rectangle_89" data-name="Rectangle 89" class="cls-8" width="80" height="80" rx="40" transform="translate(283 516)"/>
+        <text id="_03-3" data-name="03" class="cls-7" transform="translate(310 566)"><tspan x="0" y="0">03</tspan></text>
+      </g>
+      <g id="Group_52" data-name="Group 52">
+        <rect id="Rectangle_90" data-name="Rectangle 90" class="cls-8" width="80" height="80" rx="40" transform="translate(379 516)"/>
+        <text id="_04-3" data-name="04" class="cls-7" transform="translate(406 566)"><tspan x="0" y="0">04</tspan></text>
+      </g>
+      <g id="Group_55" data-name="Group 55">
+        <rect id="Rectangle_91" data-name="Rectangle 91" class="cls-8" width="80" height="80" rx="40" transform="translate(91 620)"/>
+        <text id="_01-4" data-name="01" class="cls-7" transform="translate(118 670)"><tspan x="0" y="0">01</tspan></text>
+      </g>
+      <g id="Group_56" data-name="Group 56">
+        <rect id="Rectangle_92" data-name="Rectangle 92" class="cls-8" width="80" height="80" rx="40" transform="translate(187 620)"/>
+        <text id="_02-4" data-name="02" class="cls-7" transform="translate(214 670)"><tspan x="0" y="0">02</tspan></text>
+      </g>
+      <g id="Group_57" data-name="Group 57">
+        <rect id="Rectangle_93" data-name="Rectangle 93" class="cls-8" width="80" height="80" rx="40" transform="translate(283 620)"/>
+        <text id="_03-4" data-name="03" class="cls-7" transform="translate(310 670)"><tspan x="0" y="0">03</tspan></text>
+      </g>
+      <g id="Group_58" data-name="Group 58">
+        <rect id="Rectangle_94" data-name="Rectangle 94" class="cls-8" width="80" height="80" rx="40" transform="translate(379 620)"/>
+        <text id="_04-4" data-name="04" class="cls-7" transform="translate(406 670)"><tspan x="0" y="0">04</tspan></text>
+      </g>
+    </g>
+    <g id="quetion" transform="translate(2060 5428)">
+      <g class="cls-21" transform="matrix(1, 0, 0, 1, -2060, -5428)">
+        <rect id="Rectangle_106-2" data-name="Rectangle 106" class="cls-5" width="1327" height="642" rx="20" transform="translate(2605 5635)"/>
+      </g>
+      <text id="login-link-2" data-name="login-link" class="cls-6" transform="translate(652 271)"><tspan x="0" y="0">Quetion</tspan></text>
+      <text id="quetion-2" data-name="quetion" class="cls-9" transform="translate(599 308)"><tspan x="0" y="19">Etiam vitae tortor. Morbi vestibulum volutpat enim. Maecenas egestas arcu quis ligula mattis placerat. Curabitur </tspan><tspan x="0" y="43">ullamcorper ultricies nisi.</tspan><tspan x="0" y="67"></tspan><tspan x="0" y="91">Curabitur turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin </tspan><tspan x="0" y="115">pretium, leo ac pellentesque mollis, felis nunc ultrices eros, sed gravida augue augue mollis justo. Integer tincidunt.</tspan><tspan x="0" y="139"></tspan><tspan x="0" y="163">Phasellus magna. Donec vitae sapien ut libero venenatis faucibus. Duis leo. Fusce ac felis sit amet ligula pharetra </tspan><tspan x="0" y="187">condimentum.</tspan></text>
+      <text id="_05" data-name="05" class="cls-10" transform="translate(599 271)"><tspan x="0" y="0">05</tspan></text>
+      <text id="login-link-3" data-name="login-link" class="cls-11" transform="translate(613 564)"><tspan x="0" y="0">Choose one:</tspan></text>
+      <g id="answers">
+        <g id="radio_button" data-name="radio button" transform="translate(3518 158)">
+          <rect id="outer_circule" data-name="outer circule" class="cls-2" width="27.9" height="28.615" rx="13.95" transform="translate(-2279 432)"/>
+          <rect id="inner_circule" data-name="inner circule" class="cls-5" width="23.608" height="24.323" rx="11.804" transform="translate(-2276.854 434.146)"/>
+        </g>
+        <g id="radio_button-2" data-name="radio button" transform="translate(3308 158)">
+          <rect id="outer_circule-2" data-name="outer circule" class="cls-2" width="27.9" height="28.615" rx="13.95" transform="translate(-2279 432)"/>
+          <rect id="inner_circule-2" data-name="inner circule" class="cls-5" width="23.608" height="24.323" rx="11.804" transform="translate(-2276.854 434.146)"/>
+        </g>
+        <g id="radio_button-3" data-name="radio button" transform="translate(3098 158)">
+          <rect id="outer_circule-3" data-name="outer circule" class="cls-2" width="27.9" height="28.615" rx="13.95" transform="translate(-2279 432)"/>
+          <rect id="inner_circule-3" data-name="inner circule" class="cls-5" width="23.608" height="24.323" rx="11.804" transform="translate(-2276.854 434.146)"/>
+        </g>
+        <g id="radio_button-4" data-name="radio button" transform="translate(2892 158)">
+          <rect id="outer_circule-4" data-name="outer circule" class="cls-2" width="27.9" height="28.615" rx="13.95" transform="translate(-2279 432)"/>
+          <rect id="inner_circule-4" data-name="inner circule" class="cls-5" width="23.608" height="24.323" rx="11.804" transform="translate(-2276.854 434.146)"/>
+        </g>
+        <text id="login-link-4" data-name="login-link" class="cls-9" transform="translate(658 611)"><tspan x="0" y="0">Choise 1</tspan></text>
+        <text id="login-link-5" data-name="login-link" class="cls-9" transform="translate(864 611)"><tspan x="0" y="0">Choise 2</tspan></text>
+        <text id="login-link-6" data-name="login-link" class="cls-9" transform="translate(1074 611)"><tspan x="0" y="0">Choise 3</tspan></text>
+        <text id="login-link-7" data-name="login-link" class="cls-9" transform="translate(1284 611)"><tspan x="0" y="0">Choise 4</tspan></text>
+      </g>
+    </g>
+    <g id="duration" transform="translate(2060 5428)">
+      <g class="cls-20" transform="matrix(1, 0, 0, 1, -2060, -5428)">
+        <rect id="Rectangle_105-2" data-name="Rectangle 105" class="cls-5" width="451" height="149" rx="20" transform="translate(2106 6245)"/>
+      </g>
+      <text id="login-link-8" data-name="login-link" class="cls-6" transform="translate(95 866)"><tspan x="0" y="0">Duration</tspan></text>
+      <text id="login-link-9" data-name="login-link" class="cls-12" transform="translate(144 934)"><tspan x="0" y="0">00h:00m:00s</tspan></text>
+      <path id="clock" class="cls-13" d="M24.55,8A16.55,16.55,0,1,0,41.1,24.55,16.547,16.547,0,0,0,24.55,8Zm3.811,23.364-5.886-4.278a.806.806,0,0,1-.327-.647V15.207a.8.8,0,0,1,.8-.8h3.2a.8.8,0,0,1,.8.8V24.4L31.19,27.48a.8.8,0,0,1,.174,1.121L29.482,31.19a.806.806,0,0,1-1.121.174Z" transform="translate(91 892.95)"/>
+    </g>
+    <g id="pink_button" data-name="pink button" transform="translate(2379 5421.5)">
+      <path id="base" class="cls-14" d="M20,.5H181A19.5,19.5,0,0,1,200.5,20V42A19.5,19.5,0,0,1,181,61.5H20A19.5,19.5,0,0,1,.5,42V20A19.5,19.5,0,0,1,20,.5Z" transform="translate(1109 898)"/>
+      <text id="content" class="cls-15" transform="translate(1210 938)"><tspan x="-31.275" y="0">Back</tspan></text>
+    </g>
+    <g id="pink_button-2" data-name="pink button" transform="translate(2623 5421.5)">
+      <path id="base-2" data-name="base" class="cls-14" d="M20,.5H181A19.5,19.5,0,0,1,200.5,20V42A19.5,19.5,0,0,1,181,61.5H20A19.5,19.5,0,0,1,.5,42V20A19.5,19.5,0,0,1,20,.5Z" transform="translate(1109 898)"/>
+      <text id="content-2" data-name="content" class="cls-15" transform="translate(1210 938)"><tspan x="-29.275" y="0">Next</tspan></text>
+    </g>
+    <g id="quize_header" data-name="quize header" transform="translate(2060 5428)">
+      <g class="cls-19" transform="matrix(1, 0, 0, 1, -2060, -5428)">
+        <rect id="Rectangle_107-2" data-name="Rectangle 107" class="cls-5" width="1920" height="159" transform="translate(2060 5428)"/>
+      </g>
+      <text id="logo" class="cls-16" transform="translate(83 97)"><tspan x="0" y="0">MyQuiz</tspan></text>
+      <text id="login-link-10" data-name="login-link" class="cls-11" transform="translate(319 89)"><tspan x="0" y="0">Math Exam 1</tspan></text>
+      <circle id="Ellipse_70" data-name="Ellipse 70" class="cls-17" cx="5" cy="5" r="5" transform="translate(491 75)"/>
+      <text id="login-link-11" data-name="login-link" class="cls-11" transform="translate(518 89)"><tspan x="0" y="0">Com. maths</tspan></text>
+      <g id="pink_button-3" data-name="pink button" transform="translate(525 -843.5)">
+        <path id="base-3" data-name="base" class="cls-14" d="M20,.5H181A19.5,19.5,0,0,1,200.5,20V42A19.5,19.5,0,0,1,181,61.5H20A19.5,19.5,0,0,1,.5,42V20A19.5,19.5,0,0,1,20,.5Z" transform="translate(1109 898)"/>
+        <text id="content-3" data-name="content" class="cls-15" transform="translate(1210 938)"><tspan x="-31.275" y="0">Back</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

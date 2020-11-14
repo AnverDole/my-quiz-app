@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-warning);
+      }
+
+      .cls-2 {
+        fill: #ffae42;
+      }
+    </style>
+    <clipPath id="clip-warning">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="warning" class="cls-1">
+    <path id="info" class="cls-2" d="M4.727,100.257H9.453V66.118H4.727A4.726,4.726,0,0,1,0,61.391V50.1a4.726,4.726,0,0,1,4.727-4.727H31.2A4.726,4.726,0,0,1,35.922,50.1v50.156h4.727a4.726,4.726,0,0,1,4.727,4.727v11.29A4.726,4.726,0,0,1,40.648,121H4.727A4.726,4.726,0,0,1,0,116.273v-11.29A4.726,4.726,0,0,1,4.727,100.257ZM22.688,0A17.016,17.016,0,1,0,39.7,17.016,17.015,17.015,0,0,0,22.688,0Z" transform="translate(77 40)"/>
+  </g>
+</svg>

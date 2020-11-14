@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="4073 5428 1920 1079">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-submit_exam);
+      }
+
+      .cls-2 {
+        fill: #b54cad;
+      }
+
+      .cls-3, .cls-6, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 20px;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-3, .cls-6, .cls-9 {
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #dcdcdc;
+      }
+
+      .cls-10, .cls-5, .cls-8 {
+        fill: #a7289e;
+      }
+
+      .cls-6, .cls-9 {
+        font-size: 25px;
+      }
+
+      .cls-8 {
+        font-size: 48px;
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .cls-9 {
+        fill: #272727;
+      }
+
+      .cls-10 {
+        stroke: #95989a;
+      }
+
+      .cls-11, .cls-12, .cls-13 {
+        fill: #3f3d56;
+      }
+
+      .cls-11 {
+        font-size: 30px;
+      }
+
+      .cls-12 {
+        font-size: 47px;
+      }
+
+      .cls-13 {
+        font-size: 34px;
+      }
+
+      .cls-14 {
+        fill: #f9f9f9;
+      }
+
+      .cls-15 {
+        filter: url(#Path_254);
+      }
+
+      .cls-16 {
+        filter: url(#footer-base);
+      }
+    </style>
+    <filter id="footer-base" x="3998" y="6362" width="2070" height="220" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-color="#a7289e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_254" x="3998" y="5517" width="2070" height="216" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-2"/>
+      <feFlood flood-color="#a7289e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-submit_exam">
+      <rect x="4073" y="5428" width="1920" height="1079"/>
+    </clipPath>
+  </defs>
+  <g id="submit_exam" data-name="submit exam" class="cls-1">
+    <rect class="cls-14" x="4073" y="5428" width="1920" height="1079"/>
+    <g id="Group_16" data-name="Group 16" transform="translate(4073 5427)">
+      <g class="cls-16" transform="matrix(1, 0, 0, 1, -4073, -5427)">
+        <rect id="footer-base-2" data-name="footer-base" class="cls-2" width="1920" height="70" transform="translate(4073 6437)"/>
+      </g>
+      <text id="copyright_text" data-name="copyright text" class="cls-3" transform="translate(175 1052)"><tspan x="0" y="0">Copyright 2020 @ M.A.Dole</tspan></text>
+      <line id="Line_2" data-name="Line 2" class="cls-4" x2="1920" transform="translate(0 1010.5)"/>
+    </g>
+    <g id="navigation-bar" transform="translate(4073 5428)">
+      <g class="cls-15" transform="matrix(1, 0, 0, 1, -4073, -5428)">
+        <path id="Path_254-2" data-name="Path 254" class="cls-5" d="M0,0H1920V66H0Z" transform="translate(4073 5589)"/>
+      </g>
+      <text id="login-link" class="cls-6" transform="translate(410 204)"><tspan x="0" y="0">My exams</tspan></text>
+      <text id="login-link-2" data-name="login-link" class="cls-6" transform="translate(175 204)"><tspan x="0" y="0">Dashboard</tspan></text>
+      <text id="login-link-3" data-name="login-link" class="cls-6" transform="translate(631 204)"><tspan x="0" y="0">Instructors</tspan></text>
+    </g>
+    <g id="header" transform="translate(4073 5428)">
+      <rect id="header-base" class="cls-7" width="1920" height="162"/>
+      <text id="logo" class="cls-8" transform="translate(173 101)"><tspan x="0" y="0">MyQuiz</tspan></text>
+      <text id="login-link-4" data-name="login-link" class="cls-9" transform="translate(1657 93)"><tspan x="0" y="0">Logout</tspan></text>
+      <path id="Path_255" data-name="Path 255" class="cls-4" d="M0,0H1920" transform="translate(0 161.5)"/>
+      <text id="login-link-5" data-name="login-link" class="cls-9" transform="translate(1430 93)"><tspan x="0" y="0">Welcome Anver!</tspan></text>
+    </g>
+    <rect id="navigation-marker" class="cls-7" width="125" height="6" rx="3" transform="translate(4483 5589)"/>
+    <g id="pink_button" data-name="pink button" transform="translate(3702 5322.5)">
+      <path id="base" class="cls-10" d="M20,.5H181A19.5,19.5,0,0,1,200.5,20V42A19.5,19.5,0,0,1,181,61.5H20A19.5,19.5,0,0,1,.5,42V20A19.5,19.5,0,0,1,20,.5Z" transform="translate(1109 898)"/>
+      <text id="content" class="cls-6" transform="translate(1210 938)"><tspan x="-31.275" y="0">Back</tspan></text>
+    </g>
+    <g id="pink_button-2" data-name="pink button" transform="translate(3946 5322.5)">
+      <path id="base-2" data-name="base" class="cls-10" d="M20,.5H181A19.5,19.5,0,0,1,200.5,20V42A19.5,19.5,0,0,1,181,61.5H20A19.5,19.5,0,0,1,.5,42V20A19.5,19.5,0,0,1,20,.5Z" transform="translate(1109 898)"/>
+      <text id="content-2" data-name="content" class="cls-6" transform="translate(1210 938)"><tspan x="-46.275" y="0">Submit</tspan></text>
+    </g>
+    <text id="login-link-6" data-name="login-link" class="cls-11" transform="translate(4912 5882)"><tspan x="0" y="0">AVAILABLE TIME</tspan></text>
+    <text id="login-link-7" data-name="login-link" class="cls-12" transform="translate(4930 5970)"><tspan x="0" y="0">00:00:00</tspan></text>
+    <text id="login-link-8" data-name="login-link" class="cls-13" transform="translate(4877 5766)"><tspan x="0" y="0">EXAM SUBMITION</tspan></text>
+  </g>
+</svg>

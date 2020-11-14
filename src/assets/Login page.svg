@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Login_page);
+      }
+
+      .cls-2 {
+        fill: rgba(167,40,158,0.1);
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-12, .cls-4, .cls-7 {
+        fill: #3f3d56;
+      }
+
+      .cls-4 {
+        font-size: 20px;
+      }
+
+      .cls-12, .cls-13, .cls-15, .cls-4 {
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-5 {
+        fill: #e6e6e6;
+      }
+
+      .cls-6 {
+        fill: #2f2e41;
+      }
+
+      .cls-14, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-11, .cls-13, .cls-15, .cls-9 {
+        fill: #a7289e;
+      }
+
+      .cls-10 {
+        fill: #ffb8b8;
+      }
+
+      .cls-11 {
+        font-size: 48px;
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .cls-12, .cls-15 {
+        font-size: 25px;
+      }
+
+      .cls-13 {
+        font-size: 35px;
+      }
+
+      .cls-14 {
+        stroke: #a7289e;
+      }
+
+      .cls-16 {
+        stroke: none;
+      }
+
+      .cls-17 {
+        filter: url(#base-2);
+      }
+
+      .cls-18 {
+        filter: url(#Rectangle_3);
+      }
+
+      .cls-19 {
+        filter: url(#base);
+      }
+    </style>
+    <filter id="base" x="1155.5" y="454.5" width="549" height="78" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#a7289e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="1531.5" y="711.5" width="173" height="72" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="base-2" x="1155.5" y="591.5" width="549" height="78" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-color="#a7289e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Login_page">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Login_page" data-name="Login page" class="cls-1">
+    <rect class="cls-8" width="1920" height="1080"/>
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" class="cls-2" cx="907" cy="829.5" rx="907" ry="829.5" transform="translate(-833 -289)"/>
+    <g id="simple-footer">
+      <rect id="footer-base" class="cls-3" width="1920" height="97" transform="translate(0 983)"/>
+      <text id="copyright_text" data-name="copyright text" class="cls-4" transform="translate(173 1038)"><tspan x="0" y="0">Copyright 2020 @ M.A.Dole</tspan></text>
+    </g>
+    <g id="undraw_secure_login_pdn4_4_" data-name="undraw_secure_login_pdn4 (4)" transform="translate(193 320)">
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-5" cx="126.08" cy="9.576" rx="126.08" ry="9.576" transform="translate(0 421.117)"/>
+      <path id="Path_1" data-name="Path 1" class="cls-6" d="M324.272,279.56c21.942-9.333,49.27-3.42,75.96.684.248-4.97,3.259-11.018.105-14.485-3.831-4.212-3.479-8.638-1.173-13.09,5.9-11.383-2.551-23.5-11.079-33.567a18.887,18.887,0,0,0-15.764-6.617l-15.8,1.128a18.919,18.919,0,0,0-16.8,13.523h0c-3.772,5.13-5.791,10.246-4.52,15.336-5.65,3.861-6.6,8.522-4.06,13.777,2.153,3.308,2.13,6.529-.1,9.66a44.6,44.6,0,0,0-6.631,13.171Z" transform="translate(-227.899 -181.872)"/>
+      <path id="Path_2" data-name="Path 2" class="cls-6" d="M860.694,643.723h-447.2A15,15,0,0,1,398.5,628.729h0q243.164-28.26,477.189,0h0a15,15,0,0,1-14.995,14.995Z" transform="translate(-242.895 -263.119)"/>
+      <path id="Path_3" data-name="Path 3" class="cls-7" d="M875.689,552.8,398.5,551.914l55.3-93.057.265-.441V253.332a18.954,18.954,0,0,1,18.957-18.955H798.518a18.954,18.954,0,0,1,18.955,18.957V459.828Z" transform="translate(-242.895 -186.305)"/>
+      <path id="Path_4" data-name="Path 4" class="cls-8" d="M489.787,250.957a6.181,6.181,0,0,0-6.174,6.174V444.126a6.181,6.181,0,0,0,6.174,6.174h329a6.182,6.182,0,0,0,6.174-6.174V257.131a6.182,6.182,0,0,0-6.174-6.174Z" transform="translate(-260.09 -189.654)"/>
+      <path id="Path_5" data-name="Path 5" class="cls-6" d="M488.094,531.718a2.654,2.654,0,0,0-2.4,1.54L468.648,570.3a2.646,2.646,0,0,0,2.4,3.752H829.416a2.646,2.646,0,0,0,2.366-3.83L813.26,533.181a2.633,2.633,0,0,0-2.366-1.463Z" transform="translate(-257.018 -246.375)"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-8" cx="3.969" cy="3.969" r="3.969" transform="translate(388.907 50.277)"/>
+      <path id="Path_6" data-name="Path 6" class="cls-6" d="M649.948,593.619a2.65,2.65,0,0,0-2.555,1.958l-4.275,15.877a2.646,2.646,0,0,0,2.555,3.334h81.293a2.646,2.646,0,0,0,2.5-3.512l-5.5-15.877a2.647,2.647,0,0,0-2.5-1.78Z" transform="translate(-292.296 -258.881)"/>
+      <path id="Path_7" data-name="Path 7" class="cls-6" d="M627.975,337.135v3.528H264.306l.274-.44v-3.087Z" transform="translate(-53.397 -68.11)"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-9" cx="61.743" cy="61.743" r="61.743" transform="translate(502.692 0)"/>
+      <path id="Path_8" data-name="Path 8" class="cls-8" d="M929.045,275.621H877.886a3.532,3.532,0,0,1-3.528-3.528V241.221a3.532,3.532,0,0,1,3.528-3.528h51.159a3.532,3.532,0,0,1,3.528,3.528v30.872a3.531,3.531,0,0,1-3.528,3.528Zm-51.159-34.4v30.872h51.161l0-30.872Z" transform="translate(-339.03 -186.975)"/>
+      <path id="Path_9" data-name="Path 9" class="cls-8" d="M922.692,234.075H890.938V219.962c0-10.222,6.677-17.641,15.877-17.641s15.877,7.419,15.877,17.641Zm-28.226-3.528h24.7V219.962c0-8.309-5.078-14.113-12.349-14.113s-12.349,5.8-12.349,14.113Z" transform="translate(-342.38 -179.829)"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-8" cx="3.528" cy="3.528" r="3.528" transform="translate(560.907 65.272)"/>
+      <path id="Path_10" data-name="Path 10" class="cls-5" d="M791.255,402.931H536.988a4.714,4.714,0,0,1-4.709-4.709V335.15a4.714,4.714,0,0,1,4.709-4.709H791.255a4.714,4.714,0,0,1,4.709,4.709v63.073A4.714,4.714,0,0,1,791.255,402.931ZM536.988,332.325a2.828,2.828,0,0,0-2.825,2.825v63.072a2.828,2.828,0,0,0,2.825,2.825H791.255a2.828,2.828,0,0,0,2.825-2.825V335.15a2.828,2.828,0,0,0-2.825-2.825Z" transform="translate(-269.922 -205.712)"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" class="cls-5" cx="19.18" cy="19.18" r="19.18" transform="translate(287.393 139.373)"/>
+      <path id="Path_11" data-name="Path 11" class="cls-5" d="M642.394,356.8a3.2,3.2,0,1,0,0,6.393H793.1a3.2,3.2,0,0,0,0-6.393Z" transform="translate(-291.522 -211.038)"/>
+      <path id="Path_12" data-name="Path 12" class="cls-5" d="M642.394,380.842a3.2,3.2,0,1,0,0,6.393h64.848a3.2,3.2,0,1,0,0-6.393Z" transform="translate(-291.522 -215.895)"/>
+      <path id="Path_13" data-name="Path 13" class="cls-10" d="M454.971,375.524l-47,24.989-.595-20.824c15.341-2.561,29.937-7.02,43.433-14.279l4.916-12.145a8.233,8.233,0,0,1,13.994-2.137h0a8.233,8.233,0,0,1-.725,11.227Z" transform="translate(-244.688 -209.284)"/>
+      <path id="Path_14" data-name="Path 14" class="cls-6" d="M323.016,555.289h0a9.236,9.236,0,0,1,1.172-7.471l10.325-15.846a18.044,18.044,0,0,1,23.409-6.176h0c-4.339,7.386-3.734,13.866,1.5,19.5a93.863,93.863,0,0,0-22.292,15.2,9.236,9.236,0,0,1-14.113-5.2Z" transform="translate(-227.579 -244.771)"/>
+      <path id="Path_15" data-name="Path 15" class="cls-6" d="M447.773,519.729h0a17.717,17.717,0,0,1-15.058,8.6l-68.594.52L361.146,511.6l30.344-8.925-25.584-19.634,27.964-32.724,50.791,47.339a17.718,17.718,0,0,1,3.113,22.077Z" transform="translate(-235.349 -229.929)"/>
+      <path id="Path_16" data-name="Path 16" class="cls-6" d="M343.705,625.679H327.64c-14.423-98.867-29.105-198.011,14.279-235.015l51.168,8.33-6.545,43.433-28.559,32.724Z" transform="translate(-225.642 -217.879)"/>
+      <path id="Path_17" data-name="Path 17" class="cls-6" d="M360.766,706.05h0a9.236,9.236,0,0,1-7.472-1.172l-17.442-2.344a18.044,18.044,0,0,1-6.177-23.408h0c7.387,4.339,13.866,3.734,19.5-1.5,3.979,8.034,10.534,7.544,16.795,14.312a9.236,9.236,0,0,1-5.2,14.113Z" transform="translate(-228.583 -275.852)"/>
+      <path id="Path_18" data-name="Path 18" class="cls-10" d="M391.64,297.508l-29.749-7.14c4.941-10.113,5.348-21.367,2.975-33.319l20.229-.595C385.729,271.317,387.647,285.2,391.64,297.508Z" transform="translate(-235.499 -190.765)"/>
+      <path id="Path_19" data-name="Path 19" class="cls-9" d="M395.316,396.422c-21.656,14.757-36.958.5-48.634-21.484,1.623-13.455-1-29.557-5.87-47.054a32.029,32.029,0,0,1,19.555-38.623h0l25.584,10.71c21.724,17.707,26,36.888,17.849,57.118Z" transform="translate(-230.999 -197.393)"/>
+      <path id="Path_20" data-name="Path 20" class="cls-10" d="M317.8,320.366l-23.8,12.495,42.243,24.989,5.878,14.5a7.69,7.69,0,0,1-4.62,10.159h0a7.69,7.69,0,0,1-10.183-6.818l-.594-10.1-53.691-17.718a12.555,12.555,0,0,1-7.878-7.67h0a12.555,12.555,0,0,1,4.71-14.605l43.174-29.62Z" transform="translate(-215.807 -198.749)"/>
+      <path id="Path_21" data-name="Path 21" class="cls-9" d="M353.012,321.155c-9.926-4.35-18.951.375-30.344,4.165l-1.785-31.534c11.312-6.029,22.1-7.655,32.129-2.975Z" transform="translate(-227.214 -197.158)"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-10" cx="18.993" cy="18.993" r="18.993" transform="translate(118.677 43.322)"/>
+      <path id="Path_22" data-name="Path 22" class="cls-6" d="M393.793,244.909c-18.805,1.842-33.135-1.234-42.293-9.991v-7.052h40.7Z" transform="translate(-233.4 -184.989)"/>
+    </g>
+    <g id="simple-header">
+      <rect id="header-base" class="cls-3" width="1920" height="162"/>
+      <text id="logo" class="cls-11" transform="translate(173 101)"><tspan x="0" y="0">MyQuiz</tspan></text>
+      <text id="login-link" class="cls-12" transform="translate(1506 93)"><tspan x="0" y="0">Login</tspan></text>
+      <text id="sign-up-link" class="cls-12" transform="translate(1620 93)"><tspan x="0" y="0">Signup</tspan></text>
+    </g>
+    <g id="login">
+      <text id="LOGIN-2" data-name="LOGIN" class="cls-13" transform="translate(1372 348)"><tspan x="0" y="0">LOGIN</tspan></text>
+      <text id="Email" class="cls-12" transform="translate(1160 440)"><tspan x="0" y="0">Email</tspan></text>
+      <g id="Input">
+        <g class="cls-19" transform="matrix(1, 0, 0, 1, 0, 0)">
+          <g id="base-3" data-name="base" class="cls-14" transform="translate(1160 459)">
+            <rect class="cls-16" width="540" height="69" rx="5"/>
+            <rect class="cls-3" x="0.5" y="0.5" width="539" height="68" rx="4.5"/>
+          </g>
+        </g>
+        <text id="placeholder" class="cls-4" transform="translate(1195 503)"><tspan x="0" y="0">Example@email.com</tspan></text>
+      </g>
+      <text id="Password" class="cls-12" transform="translate(1160 577)"><tspan x="0" y="0">Password</tspan></text>
+      <g id="button">
+        <g class="cls-18" transform="matrix(1, 0, 0, 1, 0, 0)">
+          <g id="Rectangle_3-2" data-name="Rectangle 3" class="cls-14" transform="translate(1536 716)">
+            <rect class="cls-16" width="164" height="63" rx="5"/>
+            <rect class="cls-3" x="0.5" y="0.5" width="163" height="62" rx="4.5"/>
+          </g>
+        </g>
+        <text id="Login-3" data-name="Login" class="cls-15" transform="translate(1618 757)"><tspan x="-35.5" y="0">Login</tspan></text>
+      </g>
+      <text id="Frogot_password_" data-name="Frogot password?" class="cls-4" transform="translate(1160 755)"><tspan x="0" y="0">Frogot password?</tspan></text>
+      <g id="Input-2" data-name="Input" transform="translate(0 137)">
+        <g class="cls-17" transform="matrix(1, 0, 0, 1, 0, -137)">
+          <g id="base-4" data-name="base" class="cls-14" transform="translate(1160 596)">
+            <rect class="cls-16" width="540" height="69" rx="5"/>
+            <rect class="cls-3" x="0.5" y="0.5" width="539" height="68" rx="4.5"/>
+          </g>
+        </g>
+        <text id="placeholder-2" data-name="placeholder" class="cls-4" transform="translate(1195 503)"><tspan x="0" y="0">Enter password</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

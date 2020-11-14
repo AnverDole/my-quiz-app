@@ -1,0 +1,243 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="8112 2979 1920 1646">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-view_exam);
+      }
+
+      .cls-2 {
+        fill: #b54cad;
+      }
+
+      .cls-11, .cls-3, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-7 {
+        font-size: 20px;
+      }
+
+      .cls-11, .cls-13, .cls-3, .cls-6, .cls-7, .cls-9 {
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #dcdcdc;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #3f3d56;
+      }
+
+      .cls-6 {
+        font-size: 30px;
+      }
+
+      .cls-11, .cls-13, .cls-8, .cls-9 {
+        font-size: 25px;
+      }
+
+      .cls-8 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-10, .cls-12, .cls-14 {
+        fill: #a7289e;
+      }
+
+      .cls-12 {
+        font-size: 48px;
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .cls-13 {
+        fill: #272727;
+      }
+
+      .cls-14 {
+        stroke: #95989a;
+      }
+
+      .cls-15 {
+        opacity: 0.08;
+      }
+
+      .cls-16 {
+        fill: #f9f9f9;
+      }
+
+      .cls-17 {
+        filter: url(#Rectangle_155);
+      }
+
+      .cls-18 {
+        filter: url(#Rectangle_146);
+      }
+
+      .cls-19 {
+        filter: url(#Path_254);
+      }
+
+      .cls-20 {
+        filter: url(#Rectangle_108);
+      }
+
+      .cls-21 {
+        filter: url(#Rectangle_109);
+      }
+
+      .cls-22 {
+        filter: url(#footer-base);
+      }
+    </style>
+    <filter id="footer-base" x="8037" y="4480" width="2070" height="220" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-color="#a7289e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_109" x="8209" y="3346" width="1727" height="616" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-2"/>
+      <feFlood flood-color="#b54cad" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_108" x="8209" y="3183" width="1727" height="268" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-3"/>
+      <feFlood flood-color="#b54cad" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_254" x="8037" y="3068" width="2070" height="216" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-4"/>
+      <feFlood flood-color="#a7289e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_146" x="8209" y="3851" width="1727" height="616" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-5"/>
+      <feFlood flood-color="#b54cad" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_155" x="8534" y="3246" width="1076" height="488" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-6"/>
+      <feFlood flood-color="#a7289e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-view_exam">
+      <rect x="8112" y="2979" width="1920" height="1646"/>
+    </clipPath>
+  </defs>
+  <g id="view_exam" data-name="view exam" class="cls-1">
+    <rect class="cls-16" x="8112" y="2979" width="1920" height="1646"/>
+    <g id="Group_16" data-name="Group 16" transform="translate(8112 3545)">
+      <g class="cls-22" transform="matrix(1, 0, 0, 1, -8112, -3545)">
+        <rect id="footer-base-2" data-name="footer-base" class="cls-2" width="1920" height="70" transform="translate(8112 4555)"/>
+      </g>
+      <text id="copyright_text" data-name="copyright text" class="cls-3" transform="translate(175 1052)"><tspan x="0" y="0">Copyright 2020 @ M.A.Dole</tspan></text>
+      <line id="Line_2" data-name="Line 2" class="cls-4" x2="1920" transform="translate(0 1010.5)"/>
+    </g>
+    <g class="cls-21" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_109-2" data-name="Rectangle 109" class="cls-5" width="1577" height="466" rx="20" transform="translate(8284 3421)"/>
+    </g>
+    <text id="login-link" class="cls-6" transform="translate(8412 3491)"><tspan x="0" y="0">Quetion</tspan></text>
+    <text id="Etiam_vitae_tortor._Morbi_vestibulum_volutpat_enim._Maecenas_egestas_arcu_quis_ligula_mattis_placerat._Curabitur_ullamcorper_ultricies_nisi._Curabitur_turpis._Pellentesque_habitant_morbi_tristique_senectus_et_netus_et_malesuada_fames_ac_turpis_egestas._" data-name="Etiam vitae tortor. Morbi vestibulum volutpat enim. Maecenas egestas arcu quis ligula mattis placerat. Curabitur ullamcorper ultricies nisi.
+
+Curabitur turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. " class="cls-7" transform="translate(8359 3528)"><tspan x="0" y="19">Etiam vitae tortor. Morbi vestibulum volutpat enim. Maecenas egestas arcu quis ligula mattis placerat. Curabitur ullamcorper </tspan><tspan x="0" y="43">ultricies nisi.</tspan><tspan x="0" y="67"></tspan><tspan x="0" y="91">Curabitur turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin </tspan><tspan x="0" y="115">pretium, leo ac pellentesque mollis, felis nunc ultrices eros, sed gravida augue augue mollis justo. Integer tincidunt.</tspan><tspan x="0" y="139"></tspan><tspan x="0" y="163">Phasellus magna. Donec vitae sapien ut libero venenatis faucibus. Duis leo. Fusce ac felis sit amet ligula pharetra </tspan><tspan x="0" y="187">condimentum.</tspan></text>
+    <text id="_01" data-name="01" class="cls-8" transform="translate(8359 3491)"><tspan x="0" y="0">01</tspan></text>
+    <text id="login-link-2" data-name="login-link" class="cls-9" transform="translate(8373 3784)"><tspan x="0" y="0">Your answer</tspan></text>
+    <rect id="Rectangle_110" data-name="Rectangle 110" class="cls-2" width="27.9" height="28.615" rx="13.95" transform="translate(8373 3810.692)"/>
+    <text id="login-link-3" data-name="login-link" class="cls-7" transform="translate(8430 3835)"><tspan x="0" y="0">Choise 1</tspan></text>
+    <rect id="Rectangle_111" data-name="Rectangle 111" class="cls-5" width="23.608" height="24.323" rx="11.804" transform="translate(8375.146 3812.838)"/>
+    <rect id="Rectangle_112" data-name="Rectangle 112" class="cls-2" width="27.9" height="28.615" rx="13.95" transform="translate(8593 3810.692)"/>
+    <text id="login-link-4" data-name="login-link" class="cls-7" transform="translate(8650 3835)"><tspan x="0" y="0">Choise 2</tspan></text>
+    <rect id="Rectangle_113" data-name="Rectangle 113" class="cls-5" width="23.608" height="24.323" rx="11.804" transform="translate(8595.146 3812.838)"/>
+    <rect id="Rectangle_114" data-name="Rectangle 114" class="cls-2" width="27.9" height="28.615" rx="13.95" transform="translate(8825 3810.692)"/>
+    <text id="login-link-5" data-name="login-link" class="cls-7" transform="translate(8882 3832)"><tspan x="0" y="0">Choise 3</tspan></text>
+    <rect id="Rectangle_115" data-name="Rectangle 115" class="cls-5" width="23.608" height="24.323" rx="11.804" transform="translate(8827.146 3812.838)"/>
+    <rect id="Rectangle_116" data-name="Rectangle 116" class="cls-2" width="27.9" height="28.615" rx="13.95" transform="translate(9057 3811)"/>
+    <text id="login-link-6" data-name="login-link" class="cls-7" transform="translate(9115 3832)"><tspan x="0" y="0">Choise 4</tspan></text>
+    <rect id="Rectangle_117" data-name="Rectangle 117" class="cls-5" width="23.608" height="24.323" rx="11.804" transform="translate(9059.146 3813)"/>
+    <g class="cls-20" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_108-2" data-name="Rectangle 108" class="cls-5" width="1577" height="118" rx="20" transform="translate(8284 3258)"/>
+    </g>
+    <text id="login-link-7" data-name="login-link" class="cls-9" transform="translate(8335 3311)"><tspan x="0" y="0">Math Exam 1</tspan></text>
+    <text id="login-link-8" data-name="login-link" class="cls-7" transform="translate(8337 3342)"><tspan x="0" y="0">Com. maths</tspan></text>
+    <g id="navigation-bar" transform="translate(8112 2979)">
+      <g class="cls-19" transform="matrix(1, 0, 0, 1, -8112, -2979)">
+        <path id="Path_254-2" data-name="Path 254" class="cls-10" d="M0,0H1920V66H0Z" transform="translate(8112 3140)"/>
+      </g>
+      <text id="login-link-9" data-name="login-link" class="cls-11" transform="translate(410 204)"><tspan x="0" y="0">My exams</tspan></text>
+      <text id="login-link-10" data-name="login-link" class="cls-11" transform="translate(175 204)"><tspan x="0" y="0">Dashboard</tspan></text>
+      <text id="login-link-11" data-name="login-link" class="cls-11" transform="translate(631 204)"><tspan x="0" y="0">Instructors</tspan></text>
+    </g>
+    <g id="header" transform="translate(8112 2979)">
+      <rect id="header-base" class="cls-5" width="1920" height="162"/>
+      <text id="logo" class="cls-12" transform="translate(173 101)"><tspan x="0" y="0">MyQuiz</tspan></text>
+      <text id="login-link-12" data-name="login-link" class="cls-13" transform="translate(1657 93)"><tspan x="0" y="0">Logout</tspan></text>
+      <path id="Path_255" data-name="Path 255" class="cls-4" d="M0,0H1920" transform="translate(0 161.5)"/>
+      <text id="login-link-13" data-name="login-link" class="cls-13" transform="translate(1430 93)"><tspan x="0" y="0">Welcome Anver!</tspan></text>
+    </g>
+    <rect id="navigation-marker" class="cls-5" width="125" height="6" rx="3" transform="translate(8522 3140)"/>
+    <g class="cls-18" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_146-2" data-name="Rectangle 146" class="cls-5" width="1577" height="466" rx="20" transform="translate(8284 3926)"/>
+    </g>
+    <text id="login-link-14" data-name="login-link" class="cls-6" transform="translate(8412 3996)"><tspan x="0" y="0">Quetion</tspan></text>
+    <text id="Etiam_vitae_tortor._Morbi_vestibulum_volutpat_enim._Maecenas_egestas_arcu_quis_ligula_mattis_placerat._Curabitur_ullamcorper_ultricies_nisi._Curabitur_turpis._Pellentesque_habitant_morbi_tristique_senectus_et_netus_et_malesuada_fames_ac_turpis_egestas._2" data-name="Etiam vitae tortor. Morbi vestibulum volutpat enim. Maecenas egestas arcu quis ligula mattis placerat. Curabitur ullamcorper ultricies nisi.
+
+Curabitur turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. " class="cls-7" transform="translate(8359 4033)"><tspan x="0" y="19">Etiam vitae tortor. Morbi vestibulum volutpat enim. Maecenas egestas arcu quis ligula mattis placerat. Curabitur ullamcorper </tspan><tspan x="0" y="43">ultricies nisi.</tspan><tspan x="0" y="67"></tspan><tspan x="0" y="91">Curabitur turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin </tspan><tspan x="0" y="115">pretium, leo ac pellentesque mollis, felis nunc ultrices eros, sed gravida augue augue mollis justo. Integer tincidunt.</tspan><tspan x="0" y="139"></tspan><tspan x="0" y="163">Phasellus magna. Donec vitae sapien ut libero venenatis faucibus. Duis leo. Fusce ac felis sit amet ligula pharetra </tspan><tspan x="0" y="187">condimentum.</tspan></text>
+    <text id="_02" data-name="02" class="cls-8" transform="translate(8359 3996)"><tspan x="0" y="0">02</tspan></text>
+    <text id="login-link-15" data-name="login-link" class="cls-9" transform="translate(8373 4289)"><tspan x="0" y="0">Your answer</tspan></text>
+    <rect id="Rectangle_147" data-name="Rectangle 147" class="cls-2" width="27.9" height="28.615" rx="13.95" transform="translate(8373 4315.692)"/>
+    <text id="login-link-16" data-name="login-link" class="cls-7" transform="translate(8430 4340)"><tspan x="0" y="0">Choise 1</tspan></text>
+    <rect id="Rectangle_148" data-name="Rectangle 148" class="cls-5" width="23.608" height="24.323" rx="11.804" transform="translate(8375.146 4317.838)"/>
+    <rect id="Rectangle_149" data-name="Rectangle 149" class="cls-2" width="27.9" height="28.615" rx="13.95" transform="translate(8593 4315.692)"/>
+    <text id="login-link-17" data-name="login-link" class="cls-7" transform="translate(8650 4340)"><tspan x="0" y="0">Choise 2</tspan></text>
+    <rect id="Rectangle_150" data-name="Rectangle 150" class="cls-5" width="23.608" height="24.323" rx="11.804" transform="translate(8595.146 4317.838)"/>
+    <rect id="Rectangle_151" data-name="Rectangle 151" class="cls-2" width="27.9" height="28.615" rx="13.95" transform="translate(8825 4315.692)"/>
+    <text id="login-link-18" data-name="login-link" class="cls-7" transform="translate(8882 4337)"><tspan x="0" y="0">Choise 3</tspan></text>
+    <rect id="Rectangle_152" data-name="Rectangle 152" class="cls-5" width="23.608" height="24.323" rx="11.804" transform="translate(8827.146 4317.838)"/>
+    <rect id="Rectangle_153" data-name="Rectangle 153" class="cls-2" width="27.9" height="28.615" rx="13.95" transform="translate(9057 4316)"/>
+    <text id="login-link-19" data-name="login-link" class="cls-7" transform="translate(9115 4337)"><tspan x="0" y="0">Choise 4</tspan></text>
+    <rect id="Rectangle_154" data-name="Rectangle 154" class="cls-5" width="23.608" height="24.323" rx="11.804" transform="translate(9059.146 4318)"/>
+    <g id="pink_button" data-name="pink button" transform="translate(7745 3554)">
+      <path id="base" class="cls-14" d="M20,.5H181A19.5,19.5,0,0,1,200.5,20V42A19.5,19.5,0,0,1,181,61.5H20A19.5,19.5,0,0,1,.5,42V20A19.5,19.5,0,0,1,20,.5Z" transform="translate(1109 898)"/>
+      <text id="content" class="cls-11" transform="translate(1210 938)"><tspan x="-25.175" y="0">Edit</tspan></text>
+    </g>
+    <g id="pink_button-2" data-name="pink button" transform="translate(7980 3554)">
+      <path id="base-2" data-name="base" class="cls-14" d="M20,.5H181A19.5,19.5,0,0,1,200.5,20V42A19.5,19.5,0,0,1,181,61.5H20A19.5,19.5,0,0,1,.5,42V20A19.5,19.5,0,0,1,20,.5Z" transform="translate(1109 898)"/>
+      <text id="content-2" data-name="content" class="cls-11" transform="translate(1210 938)"><tspan x="-51.063" y="0">Go back</tspan></text>
+    </g>
+    <g id="pink_button-3" data-name="pink button" transform="translate(8514 2388)">
+      <path id="base-3" data-name="base" class="cls-14" d="M20,.5H181A19.5,19.5,0,0,1,200.5,20V42A19.5,19.5,0,0,1,181,61.5H20A19.5,19.5,0,0,1,.5,42V20A19.5,19.5,0,0,1,20,.5Z" transform="translate(1109 898)"/>
+      <text id="content-3" data-name="content" class="cls-11" transform="translate(1210 938)"><tspan x="-41.175" y="0">Delete</tspan></text>
+    </g>
+    <rect id="Rectangle_157" data-name="Rectangle 157" class="cls-15" width="1920" height="1646" transform="translate(8112 2979)"/>
+    <g id="Delete_exam_model" data-name="Delete exam model" transform="translate(8112 2979)">
+      <g class="cls-17" transform="matrix(1, 0, 0, 1, -8112, -2979)">
+        <rect id="Rectangle_155-2" data-name="Rectangle 155" class="cls-5" width="926" height="338" rx="20" transform="translate(8609 3321)"/>
+      </g>
+      <text id="login-link-20" data-name="login-link" class="cls-6" transform="translate(555 406)"><tspan x="0" y="0">Delete exam</tspan></text>
+      <text id="login-link-21" data-name="login-link" class="cls-6" transform="translate(555 466)"><tspan x="0" y="0">Are you shure you want to delete</tspan><tspan x="0" y="37">this?</tspan></text>
+      <g id="pink_button-4" data-name="pink button" transform="translate(73 -323)">
+        <path id="base-4" data-name="base" class="cls-14" d="M20,.5H181A19.5,19.5,0,0,1,200.5,20V42A19.5,19.5,0,0,1,181,61.5H20A19.5,19.5,0,0,1,.5,42V20A19.5,19.5,0,0,1,20,.5Z" transform="translate(1109 898)"/>
+        <text id="content-4" data-name="content" class="cls-11" transform="translate(1210 938)"><tspan x="-42.587" y="0">Cancel</tspan></text>
+      </g>
+      <g id="pink_button-5" data-name="pink button" transform="translate(-554 -323)">
+        <path id="base-5" data-name="base" class="cls-14" d="M20,.5H181A19.5,19.5,0,0,1,200.5,20V42A19.5,19.5,0,0,1,181,61.5H20A19.5,19.5,0,0,1,.5,42V20A19.5,19.5,0,0,1,20,.5Z" transform="translate(1109 898)"/>
+        <text id="content-5" data-name="content" class="cls-11" transform="translate(1210 938)"><tspan x="-41.175" y="0">Delete</tspan></text>
+      </g>
+      <path id="times-circle" class="cls-10" d="M24.6,8A16.6,16.6,0,1,0,41.2,24.6,16.6,16.6,0,0,0,24.6,8Zm8.139,20.957a.8.8,0,0,1,0,1.138l-2.651,2.644a.8.8,0,0,1-1.138,0L24.6,28.348l-4.357,4.391a.8.8,0,0,1-1.138,0l-2.644-2.651a.8.8,0,0,1,0-1.138L20.852,24.6l-4.391-4.357a.8.8,0,0,1,0-1.138l2.651-2.651a.8.8,0,0,1,1.138,0l4.351,4.4,4.357-4.391a.8.8,0,0,1,1.138,0l2.651,2.651a.8.8,0,0,1,0,1.138l-4.4,4.351Z" transform="translate(1341 371.4)"/>
+    </g>
+  </g>
+</svg>

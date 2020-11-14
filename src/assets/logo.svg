@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="6823 55 184 58">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a7289e;
+        font-size: 48px;
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <text id="logo" class="cls-1" transform="translate(6823 101)"><tspan x="0" y="0">MyQuiz</tspan></text>
+</svg>

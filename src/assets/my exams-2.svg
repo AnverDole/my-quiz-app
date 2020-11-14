@@ -1,0 +1,262 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="62 5428 1920 1079">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-my_exams);
+      }
+
+      .cls-2 {
+        fill: #b54cad;
+      }
+
+      .cls-13, .cls-3, .cls-6, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-15, .cls-18, .cls-3 {
+        font-size: 20px;
+      }
+
+      .cls-10, .cls-12, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-3, .cls-6, .cls-9 {
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-20, .cls-4 {
+        fill: none;
+      }
+
+      .cls-13, .cls-4 {
+        stroke: #dcdcdc;
+      }
+
+      .cls-11, .cls-16, .cls-17, .cls-18, .cls-5, .cls-8 {
+        fill: #a7289e;
+      }
+
+      .cls-10, .cls-17, .cls-6, .cls-9 {
+        font-size: 25px;
+      }
+
+      .cls-8 {
+        font-size: 48px;
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .cls-9 {
+        fill: #272727;
+      }
+
+      .cls-10, .cls-12, .cls-14, .cls-15 {
+        fill: #3f3d56;
+      }
+
+      .cls-11 {
+        stroke: #95989a;
+      }
+
+      .cls-12 {
+        font-size: 30px;
+      }
+
+      .cls-14 {
+        font-size: 18px;
+      }
+
+      .cls-16 {
+        font-size: 51px;
+      }
+
+      .cls-19 {
+        stroke: none;
+      }
+
+      .cls-21 {
+        fill: #f9f9f9;
+      }
+
+      .cls-22 {
+        filter: url(#Rectangle_56-3);
+      }
+
+      .cls-23 {
+        filter: url(#Rectangle_56-2);
+      }
+
+      .cls-24 {
+        filter: url(#Rectangle_56);
+      }
+
+      .cls-25 {
+        filter: url(#title_base);
+      }
+
+      .cls-26 {
+        filter: url(#Path_254);
+      }
+
+      .cls-27 {
+        filter: url(#Line_2);
+      }
+
+      .cls-28 {
+        filter: url(#footer-base);
+      }
+    </style>
+    <filter id="footer-base" x="62" y="6437" width="1920" height="71" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#a7289e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_2" x="-13" y="6363" width="2070" height="151" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-2"/>
+      <feFlood flood-color="#a7289e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_254" x="-13" y="5517" width="2070" height="216" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-3"/>
+      <feFlood flood-color="#a7289e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="title_base" x="162" y="5634" width="1721" height="249" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-4"/>
+      <feFlood flood-color="#3f3d56" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_56" x="162" y="5767" width="641" height="524" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-5"/>
+      <feFlood flood-color="#b54cad" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_56-2" x="702" y="5767" width="641" height="524" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-6"/>
+      <feFlood flood-color="#b54cad" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_56-3" x="1242" y="5767" width="641" height="524" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-7"/>
+      <feFlood flood-color="#b54cad" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-my_exams">
+      <rect x="62" y="5428" width="1920" height="1079"/>
+    </clipPath>
+  </defs>
+  <g id="my_exams" data-name="my exams" class="cls-1">
+    <rect class="cls-21" x="62" y="5428" width="1920" height="1079"/>
+    <g id="Group_16" data-name="Group 16" transform="translate(62 5428)">
+      <g class="cls-28" transform="matrix(1, 0, 0, 1, -62, -5428)">
+        <rect id="footer-base-2" data-name="footer-base" class="cls-2" width="1920" height="70" transform="translate(62 6438)"/>
+      </g>
+      <text id="copyright_text" data-name="copyright text" class="cls-3" transform="translate(175 1052)"><tspan x="0" y="0">Copyright 2020 @ M.A.Dole</tspan></text>
+      <g class="cls-27" transform="matrix(1, 0, 0, 1, -62, -5428)">
+        <line id="Line_2-2" data-name="Line 2" class="cls-4" x2="1920" transform="translate(62 6438.5)"/>
+      </g>
+    </g>
+    <g id="navigation-bar" transform="translate(62 5428)">
+      <g class="cls-26" transform="matrix(1, 0, 0, 1, -62, -5428)">
+        <path id="Path_254-2" data-name="Path 254" class="cls-5" d="M0,0H1920V66H0Z" transform="translate(62 5589)"/>
+      </g>
+      <text id="login-link" class="cls-6" transform="translate(410 204)"><tspan x="0" y="0">My exams</tspan></text>
+      <text id="login-link-2" data-name="login-link" class="cls-6" transform="translate(175 204)"><tspan x="0" y="0">Dashboard</tspan></text>
+      <text id="login-link-3" data-name="login-link" class="cls-6" transform="translate(631 204)"><tspan x="0" y="0">Instructors</tspan></text>
+    </g>
+    <g id="header" transform="translate(62 5428)">
+      <rect id="header-base" class="cls-7" width="1920" height="162"/>
+      <text id="logo" class="cls-8" transform="translate(173 101)"><tspan x="0" y="0">MyQuiz</tspan></text>
+      <text id="login-link-4" data-name="login-link" class="cls-9" transform="translate(1657 93)"><tspan x="0" y="0">Logout</tspan></text>
+      <path id="Path_255" data-name="Path 255" class="cls-4" d="M0,0H1920" transform="translate(0 161.5)"/>
+      <text id="login-link-5" data-name="login-link" class="cls-9" transform="translate(1430 93)"><tspan x="0" y="0">Welcome Anver!</tspan></text>
+    </g>
+    <rect id="navigation-marker" class="cls-7" width="125" height="6" rx="3" transform="translate(472 5589)"/>
+    <text id="current_page_no" data-name="current page no" class="cls-10" transform="translate(1419 6366)"><tspan x="0" y="0">Page 1 of 10</tspan></text>
+    <g id="pink_button" data-name="pink button" transform="translate(63 5428)">
+      <path id="base" class="cls-11" d="M20,.5H181A19.5,19.5,0,0,1,200.5,20V42A19.5,19.5,0,0,1,181,61.5H20A19.5,19.5,0,0,1,.5,42V20A19.5,19.5,0,0,1,20,.5Z" transform="translate(1109 898)"/>
+      <text id="content" class="cls-6" transform="translate(1210 938)"><tspan x="-31.275" y="0">Back</tspan></text>
+    </g>
+    <g id="pink_button-2" data-name="pink button" transform="translate(499 5428.5)">
+      <path id="base-2" data-name="base" class="cls-11" d="M20,.5H181A19.5,19.5,0,0,1,200.5,20V42A19.5,19.5,0,0,1,181,61.5H20A19.5,19.5,0,0,1,.5,42V20A19.5,19.5,0,0,1,20,.5Z" transform="translate(1109 898)"/>
+      <text id="content-2" data-name="content" class="cls-6" transform="translate(1210 938)"><tspan x="-29.275" y="0">Next</tspan></text>
+    </g>
+    <g id="page_title" data-name="page title" transform="translate(62 5428)">
+      <g class="cls-25" transform="matrix(1, 0, 0, 1, -62, -5428)">
+        <rect id="title_base-2" data-name="title base" class="cls-7" width="1571" height="99" rx="20" transform="translate(237 5706)"/>
+      </g>
+      <text id="login-link-6" data-name="login-link" class="cls-12" transform="translate(224 338)"><tspan x="0" y="0">My exams</tspan></text>
+    </g>
+    <g id="Group_36" data-name="Group 36" transform="translate(62 5468)">
+      <g class="cls-24" transform="matrix(1, 0, 0, 1, -62, -5468)">
+        <g id="Rectangle_56-4" data-name="Rectangle 56" class="cls-13" transform="translate(237 5842)">
+          <rect class="cls-19" width="491" height="374" rx="20"/>
+          <rect class="cls-20" x="0.5" y="0.5" width="490" height="373" rx="19.5"/>
+        </g>
+      </g>
+      <text id="login-link-7" data-name="login-link" class="cls-10" transform="translate(226 434)"><tspan x="0" y="0">Math Exam 1</tspan></text>
+      <text id="login-link-8" data-name="login-link" class="cls-14" transform="translate(604 431)"><tspan x="0" y="0">1 h</tspan></text>
+      <text id="login-link-9" data-name="login-link" class="cls-14" transform="translate(512 464)"><tspan x="0" y="0">20 questions</tspan></text>
+      <text id="login-link-10" data-name="login-link" class="cls-15" transform="translate(226 466)"><tspan x="0" y="0">Com. maths</tspan></text>
+      <text id="login-link-11" data-name="login-link" class="cls-16" transform="translate(422 610)"><tspan x="0" y="0">50%</tspan></text>
+      <text id="login-link-12" data-name="login-link" class="cls-10" transform="translate(226 507)"><tspan x="0" y="0">M.A. Dole</tspan></text>
+      <text id="login-link-13" data-name="login-link" class="cls-17" transform="translate(314 601)"><tspan x="0" y="0">Results</tspan></text>
+      <g id="view_exam_button" data-name="view exam button" transform="translate(114 -46)">
+        <rect id="Rectangle_129" data-name="Rectangle 129" class="cls-5" width="195" height="49" rx="20" transform="translate(209 705)"/>
+        <text id="login-link-14" data-name="login-link" class="cls-3" transform="translate(275 737)"><tspan x="0" y="0">Summery</tspan></text>
+        <path id="th-list" class="cls-7" d="M5.833,39.188v3.125a.937.937,0,0,1-.937.938H.938A.937.937,0,0,1,0,42.313V39.188a.937.937,0,0,1,.938-.937H4.9a.937.937,0,0,1,.938.938ZM0,45.438v3.125a.937.937,0,0,0,.938.938H4.9a.937.937,0,0,0,.938-.937V45.438A.937.937,0,0,0,4.9,44.5H.938A.937.937,0,0,0,0,45.438ZM4.9,32H.938A.937.937,0,0,0,0,32.938v3.125A.937.937,0,0,0,.938,37H4.9a.937.937,0,0,0,.938-.937V32.938A.937.937,0,0,0,4.9,32ZM8.021,49.5H19.063A.937.937,0,0,0,20,48.563V45.438a.937.937,0,0,0-.937-.937H8.021a.937.937,0,0,0-.937.938v3.125a.937.937,0,0,0,.937.938ZM7.083,32.938v3.125A.937.937,0,0,0,8.021,37H19.063A.937.937,0,0,0,20,36.063V32.938A.937.937,0,0,0,19.063,32H8.021a.937.937,0,0,0-.937.938ZM8.021,43.25H19.063A.937.937,0,0,0,20,42.313V39.188a.937.937,0,0,0-.937-.937H8.021a.937.937,0,0,0-.937.938v3.125a.937.937,0,0,0,.937.938Z" transform="translate(241 689)"/>
+      </g>
+      <text id="login-link-15" data-name="login-link" class="cls-18" transform="translate(226 544)"><tspan x="0" y="0">Finished</tspan></text>
+    </g>
+    <g id="Group_37" data-name="Group 37" transform="translate(602 5468)">
+      <g class="cls-23" transform="matrix(1, 0, 0, 1, -602, -5468)">
+        <g id="Rectangle_56-5" data-name="Rectangle 56" class="cls-13" transform="translate(777 5842)">
+          <rect class="cls-19" width="491" height="374" rx="20"/>
+          <rect class="cls-20" x="0.5" y="0.5" width="490" height="373" rx="19.5"/>
+        </g>
+      </g>
+      <text id="login-link-16" data-name="login-link" class="cls-10" transform="translate(226 434)"><tspan x="0" y="0">Math Exam 1</tspan></text>
+      <text id="login-link-17" data-name="login-link" class="cls-14" transform="translate(604 431)"><tspan x="0" y="0">1 h</tspan></text>
+      <text id="login-link-18" data-name="login-link" class="cls-14" transform="translate(512 464)"><tspan x="0" y="0">20 questions</tspan></text>
+      <text id="login-link-19" data-name="login-link" class="cls-15" transform="translate(226 466)"><tspan x="0" y="0">Com. maths</tspan></text>
+      <text id="login-link-20" data-name="login-link" class="cls-10" transform="translate(226 507)"><tspan x="0" y="0">M.A. Dole</tspan></text>
+      <g id="view_exam_button-2" data-name="view exam button" transform="translate(114 -46)">
+        <rect id="Rectangle_129-2" data-name="Rectangle 129" class="cls-5" width="195" height="49" rx="20" transform="translate(209 705)"/>
+        <text id="login-link-21" data-name="login-link" class="cls-3" transform="translate(269 737)"><tspan x="0" y="0">Take exam</tspan></text>
+        <path id="pen" class="cls-7" d="M11.346,3.649l5,5L5.488,19.509,1.03,20A.938.938,0,0,1,0,18.965l.5-4.462L11.346,3.649ZM19.44,2.9,17.092.557a1.876,1.876,0,0,0-2.653,0L12.23,2.766l5,5L19.44,5.557a1.876,1.876,0,0,0,0-2.653Z" transform="translate(238.011 719.993)"/>
+      </g>
+    </g>
+    <g id="Group_38" data-name="Group 38" transform="translate(1142 5468)">
+      <g class="cls-22" transform="matrix(1, 0, 0, 1, -1142, -5468)">
+        <g id="Rectangle_56-6" data-name="Rectangle 56" class="cls-13" transform="translate(1317 5842)">
+          <rect class="cls-19" width="491" height="374" rx="20"/>
+          <rect class="cls-20" x="0.5" y="0.5" width="490" height="373" rx="19.5"/>
+        </g>
+      </g>
+      <text id="login-link-22" data-name="login-link" class="cls-10" transform="translate(226 434)"><tspan x="0" y="0">Math Exam 1</tspan></text>
+      <text id="login-link-23" data-name="login-link" class="cls-14" transform="translate(604 431)"><tspan x="0" y="0">1 h</tspan></text>
+      <text id="login-link-24" data-name="login-link" class="cls-14" transform="translate(512 464)"><tspan x="0" y="0">20 questions</tspan></text>
+      <text id="login-link-25" data-name="login-link" class="cls-15" transform="translate(226 466)"><tspan x="0" y="0">Com. maths</tspan></text>
+      <text id="login-link-26" data-name="login-link" class="cls-16" transform="translate(422 610)"><tspan x="0" y="0">50%</tspan></text>
+      <text id="login-link-27" data-name="login-link" class="cls-10" transform="translate(226 507)"><tspan x="0" y="0">M.A. Dole</tspan></text>
+      <text id="login-link-28" data-name="login-link" class="cls-17" transform="translate(314 601)"><tspan x="0" y="0">Results</tspan></text>
+      <g id="view_exam_button-3" data-name="view exam button" transform="translate(114 -46)">
+        <rect id="Rectangle_129-3" data-name="Rectangle 129" class="cls-5" width="195" height="49" rx="20" transform="translate(209 705)"/>
+        <text id="login-link-29" data-name="login-link" class="cls-3" transform="translate(275 737)"><tspan x="0" y="0">Summery</tspan></text>
+        <path id="th-list-2" data-name="th-list" class="cls-7" d="M5.833,39.188v3.125a.937.937,0,0,1-.937.938H.938A.937.937,0,0,1,0,42.313V39.188a.937.937,0,0,1,.938-.937H4.9a.937.937,0,0,1,.938.938ZM0,45.438v3.125a.937.937,0,0,0,.938.938H4.9a.937.937,0,0,0,.938-.937V45.438A.937.937,0,0,0,4.9,44.5H.938A.937.937,0,0,0,0,45.438ZM4.9,32H.938A.937.937,0,0,0,0,32.938v3.125A.937.937,0,0,0,.938,37H4.9a.937.937,0,0,0,.938-.937V32.938A.937.937,0,0,0,4.9,32ZM8.021,49.5H19.063A.937.937,0,0,0,20,48.563V45.438a.937.937,0,0,0-.937-.937H8.021a.937.937,0,0,0-.937.938v3.125a.937.937,0,0,0,.937.938ZM7.083,32.938v3.125A.937.937,0,0,0,8.021,37H19.063A.937.937,0,0,0,20,36.063V32.938A.937.937,0,0,0,19.063,32H8.021a.937.937,0,0,0-.937.938ZM8.021,43.25H19.063A.937.937,0,0,0,20,42.313V39.188a.937.937,0,0,0-.937-.937H8.021a.937.937,0,0,0-.937.938v3.125a.937.937,0,0,0,.937.938Z" transform="translate(241 689)"/>
+      </g>
+      <text id="login-link-30" data-name="login-link" class="cls-18" transform="translate(231 543)"><tspan x="0" y="0">Finished</tspan></text>
+    </g>
+  </g>
+</svg>

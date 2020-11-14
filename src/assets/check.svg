@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-check);
+      }
+
+      .cls-2 {
+        fill: #009405;
+      }
+    </style>
+    <clipPath id="clip-check">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="check" class="cls-1">
+    <path id="check-2" data-name="check" class="cls-2" d="M55.362,184.262,2.387,131.287a8.15,8.15,0,0,1,0-11.526l11.526-11.526a8.15,8.15,0,0,1,11.526,0l35.687,35.686,76.437-76.436a8.15,8.15,0,0,1,11.526,0l11.526,11.526a8.15,8.15,0,0,1,0,11.526L66.888,184.262a8.15,8.15,0,0,1-11.526,0Z" transform="translate(19 -26.098)"/>
+  </g>
+</svg>
