@@ -736,9 +736,10 @@ let myquizlibData = {
             let results = Axios.post(myquizlibData.endpoints.instructor.newexam, exam, autherisedheader);
             //requset was faild.
             results.catch(function (error) {
-               console.log(error);
+               
                let errordata = Object.create(myquizlibData.errortemplate);
                if (error.response) {
+                  console.log(error.response);
                   // The request was made and the server responded with a status code
 
                   //check autherization error.
