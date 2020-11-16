@@ -11,7 +11,7 @@
 
 ### Login credentials
 
-####Instructor account
+#### Instructor account
 - Username(email) : student1@gmail.com
 - Password : 1234567890
 
@@ -26,22 +26,30 @@
 
 ##### First goto the My Exams page by clicking the my exams button appear in the navigation bar.
 [![My Exams](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor%20account/my%20exams%20page.png?raw=true "My Exams")](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor%20account/my%20exams%20page.png?raw=true  "My Exams")
-#####Click new exam button.
+
+##### Click new exam button.
+
 ##### Fill the title, subject, duration fields.
 [![Exam info section](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor%20account/new%20exam%20info.png?raw=true "Exam info section")](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor%20account/new%20exam%20info.png?raw=true "Exam info section")
-#####Add mcq questions, answers and select the correct answer in the dropdown.
+##### Add mcq questions, answers and select the correct answer in the dropdown.
 [![Mcq Question](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor%20account/question.png?raw=true "Mcq Question")](https://github.com/AnverDole/my-quiz-app "Mcq Question")
 
 ##### Reapear above 3 steps many times.
+
 ##### Click submit button to submit the new exam.
 ------------
+
 #### Edit Exam
 
 ##### First goto the My Exams page by clicking the my exams button appear in the navigation bar.
 [![My Exams](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor%20account/my%20exams%20page.png?raw=true "My Exams")](https://github.com/AnverDole/my-quiz-app "My Exams")
+
 ##### Click view button in any exams that you wants to edit.
+
 ##### Click edit exam button.
+
 [![View Exam](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor%20account/edit%20exam%20button.png?raw=true "View Exam")](https://github.com/AnverDole/my-quiz-app "View Exam")
+
 ##### After finishing the edit exam click update button for save changes.
 
 
@@ -50,11 +58,16 @@
 #### View Exam
 
 ##### First goto the My Exams page by clicking the my exams button appear in the navigation bar.
+
 ##### Click view button in any exams that you wants to view.
 [![My Exams](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor%20account/view%20exam%20button.png?raw=true "My Exams")](https://github.com/AnverDole/my-quiz-app "My Exams")
+
 #### Delete Exam
+
 ##### First goto the My Exams page by clicking the my exams button appear in the navigation bar.
+
 ##### Click view button in any exams that you wants to delete.
+
 ##### Click delete button.
 [![View Exam](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor%20account/delete%20exam.png?raw=true "View Exam")](https://github.com/AnverDole/my-quiz-app "View Exam")
 
@@ -63,10 +76,13 @@
 ##### First you must login with student account.
 
 #### View all available exams
+
 ##### Goto the All exams page by clicking All exams button appear in the navigation bar.
+
 [![All Exams](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor-account/all%20exams.png?raw=true "All Exams")](https://github.com/AnverDole/my-quiz-app "All Exams")
 
 #### Take Exam
+
 ##### Goto the All exams page by clicking All exams button appear in the navigation bar.
 [![All Exams](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor-account/all%20exams.png?raw=true "All Exams")](https://github.com/AnverDole/my-quiz-app "All Exams")
 
@@ -76,16 +92,21 @@
 ##### Click take exam appear on the next page.
 [![Take Exam](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor-account/take%20exam.png?raw=true "Take Exam")](https://github.com/AnverDole/my-quiz-app "Take Exam")
 
-#####You can goto the next question and previous question by clicking next, previous buttons.
-#####You can leave the exam any time and continue anytime with clicking the cancel button appear on the bottom.
+##### You can goto the next question and previous question by clicking next, previous buttons.
+
+##### You can leave the exam any time and continue anytime with clicking the cancel button appear on the bottom.
+
 ##### For submit the exam you need to go to the last question and click finish button.
 [![Exam](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor-account/final%20question.png?raw=true "Exam")](https://github.com/AnverDole/my-quiz-app "Exam")
 
 #### View finished exam summary
+
 ##### Goto the My exams page by clicking My exams button appear in the navigation bar.
+
 [![My Exams](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor-account/my%20exams.png?raw=true "My Exams")](https://github.com/AnverDole/my-quiz-app "My Exams")
 ##### Click summary button in any exam that you wants to view summery.
 
 # API documentation
+
 ##### You can find the api documentation and source by goto the following url.
 [https://github.com/AnverDole/my-quiz-api](https://github.com/AnverDole/my-quiz-api "https://github.com/AnverDole/my-quiz-api")
