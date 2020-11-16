@@ -12,7 +12,7 @@
           <p class="main-massage">
             Are you shure you wants to delete this exam?
           </p>
-          <p class="sub-massage">If so, this will delete permanently!</p>
+          <p class="sub-massage">This action cannot be undone. <br/>This will delete all the students responses.</p>
         </div>
         <div class="modal-footer">
           <button-type2 @click="DeleteExam()">Delete</button-type2>
