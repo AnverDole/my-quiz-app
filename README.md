@@ -1,4 +1,4 @@
-#MyQuiz App Documentation
+﻿#MyQuiz App Documentation
 
 #####This application builds for host and manage online exams.
 
