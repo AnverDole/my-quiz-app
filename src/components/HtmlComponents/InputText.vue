@@ -5,6 +5,7 @@
     @input="$emit('input', $event.target.value)"
     type="text"
     v-bind:placeholder="placeholder"
+    v-bind:value="text"
   />
 </template>
 
