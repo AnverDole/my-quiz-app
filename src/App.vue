@@ -79,11 +79,11 @@ export default {
         },
         { 
           property: "og:url", 
-          content: window.location.host 
+          content: `https://${window.location.host}`
         },
         { 
           property: "og:image", 
-          content: "./assets/Mq.png" 
+          content: "/assets/Mq.png" 
         },
         { 
           name: "robots", 
