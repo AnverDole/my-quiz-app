@@ -57,7 +57,7 @@ body {
 export default {
   name: "App",
   metaInfo: function () {
-    return {
+    return {//og:url, og:type, og:title, og:image, og:description, fb:app_id
       title: "My Quiz - The Ultimate Exam Manager",
       description: "This platform allow you to manage and host exams very easyly.",
       meta: [
@@ -76,6 +76,10 @@ export default {
         { 
           property: "og:type", 
           content: "website" 
+        },
+        { 
+          property: "og:url", 
+          content: window.location.host 
         },
         { 
           property: "og:image", 
