@@ -117,7 +117,7 @@
 ##### Goto the My exams page by clicking My exams button appear in the navigation bar.
 
 [![My Exams](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor-account/my%20exams.png?raw=true "My Exams")](https://github.com/AnverDole/my-quiz-app "My Exams")
-##### Click summary button in any exam that you wants to view summery.
+##### Click summary button in any exam that you wants to view summary.
 
 ### Deploy to the developer machine
 
@@ -136,7 +136,7 @@
 
 - Type npm run dev for start serving the app.
 
-	 `npm run dev`
+	 `$ npm run dev`
 
 # API documentation
 
