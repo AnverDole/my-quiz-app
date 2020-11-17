@@ -428,5 +428,11 @@ export default {
       this.messagehandlerdata.show = false;
     },
   },
+  
+  metaInfo: function () {
+    return {
+      title: "My Quiz | New Exam",
+    }
+  }
 };
 </script>

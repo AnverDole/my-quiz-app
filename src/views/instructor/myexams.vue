@@ -303,5 +303,11 @@ export default {
       }
     },
   },
+  
+  metaInfo: function () {
+    return {
+      title: "My Quiz | My Exams",
+    }
+  }
 };
 </script>

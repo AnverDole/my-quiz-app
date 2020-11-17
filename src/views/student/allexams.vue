@@ -139,6 +139,11 @@ export default {
       });
     },
   },
+  metaInfo: function () {
+    return {
+      title: "My Quiz | All Exams",
+    }
+  }
 };
 </script>
 

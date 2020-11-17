@@ -180,6 +180,11 @@ export default {
     }
     
   },
+  metaInfo: function () {
+    return {
+      title: "My Quiz | Take Exam",
+    }
+  }
 };
 </script>
 

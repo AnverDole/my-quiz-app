@@ -178,6 +178,12 @@ export default {
       router.push({ name:"student-exam-attempt-summery", params:{examid:this.attemptinfo.exam_id}});
     }
   },
+  
+  metaInfo: function () {
+    return {
+      title: "My Quiz | Finish Attempt",
+    }
+  }
 };
 </script>
 <style scoped>

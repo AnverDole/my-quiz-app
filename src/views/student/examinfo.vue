@@ -182,6 +182,11 @@ export default {
       );
     },
   },
+  metaInfo: function () {
+    return {
+      title: "My Quiz | Exam Info",
+    }
+  }
 };
 </script>
 
