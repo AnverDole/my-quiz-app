@@ -31,7 +31,7 @@
 
 ##### Fill the title, subject, duration fields.
 [![Exam info section](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor%20account/new%20exam%20info.png?raw=true "Exam info section")](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor%20account/new%20exam%20info.png?raw=true "Exam info section")
-##### Add mcq questions, answers and select the correct answer in the dropdown.
+##### Add mcq questions, answers and select the correct answer on the dropdown.
 [![Mcq Question](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor%20account/question.png?raw=true "Mcq Question")](https://github.com/AnverDole/my-quiz-app "Mcq Question")
 
 ##### Reapear above 3 steps many times.
