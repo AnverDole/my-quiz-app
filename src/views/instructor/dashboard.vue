@@ -40,7 +40,7 @@
     </div>
 
     <simple-footer />
-    <img class="background-curve" src="../../assets/background-curve.svg" />
+    <img v-if="!messagehandlerdata.show" class="background-curve" src="../../assets/background-curve.svg" />
   </div>
 </template>
 <style scoped>
