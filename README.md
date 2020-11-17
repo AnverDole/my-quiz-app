@@ -1,6 +1,11 @@
 ﻿# MyQuiz App Documentation
 
 ##### This application builds for host and manage online exams.
+ In this system there are 2 types of users. 
+ 1. Instructors
+ 2. Students
+
+**instructors** are creating the exams and **students** can take exams that created by instructors. this app allow the instructors to host there exams  and students can take those exams online anytime anywhere and also students can view there attempt status(marks for mcqs, wich mcqs are wrong, wich mcqs are correct.. etc) after finishing the attempt.
 
 ### Features
 
@@ -10,6 +15,7 @@
 - Students can view the summary after finishing the exam. 
 
 ### Login credentials
+------------
 
 #### Instructor account
 - Username(email) : student1@gmail.com
@@ -20,6 +26,10 @@
 - Password : 1234567890
 
 ### Instructor
+
+------------
+
+
 ##### First you must login with instructor account.
 
 #### Create exam
@@ -73,6 +83,9 @@
 
 ### Student
 
+------------
+
+
 ##### First you must login with student account.
 
 #### View all available exams
@@ -105,6 +118,25 @@
 
 [![My Exams](https://github.com/AnverDole/my-quiz-app/blob/main/doc-assets/instructor-account/my%20exams.png?raw=true "My Exams")](https://github.com/AnverDole/my-quiz-app "My Exams")
 ##### Click summary button in any exam that you wants to view summery.
+
+### Deploy to the developer machine
+
+------------
+
+
+##### First you need to install git, npm and vue cli on your machine.
+- Create new folder for project root directory.
+- Open the cmd(console) and type cd, and then past the previously created project directory path.
+
+	`$ cd ./project-root-directory `
+
+- Type git clone, and then paste the URL of the repository.
+
+	`$ git clone https://github.com/AnverDole/my-quiz-app `
+
+- Type npm run dev for start serving the app.
+
+	 `npm run dev`
 
 # API documentation
 
