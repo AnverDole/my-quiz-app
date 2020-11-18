@@ -137,8 +137,3 @@
 - Type npm run dev for start serving the app.
 
 	 `$ npm run dev`
-
-# API documentation
-
-##### You can find the api documentation and source by goto the following url.
-[https://github.com/AnverDole/my-quiz-api](https://github.com/AnverDole/my-quiz-api "https://github.com/AnverDole/my-quiz-api")
