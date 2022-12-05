@@ -132,7 +132,7 @@
 
 - Type git clone, and then paste the URL of the repository.
 
-	`$ git clone https://github.com/AnverDole/my-quiz-app `
+	`$ git clone https://github.com/AnverDole/my-quiz-app.git`
 
 - Type npm run dev for start serving the app.
 
